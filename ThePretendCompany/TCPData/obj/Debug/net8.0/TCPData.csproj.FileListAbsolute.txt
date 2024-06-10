@@ -9,3 +9,15 @@ C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPData\obj\Debug\net8.0\
 C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPData\obj\Debug\net8.0\refint\TCPData.dll
 C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.pdb
 C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPData\obj\Debug\net8.0\ref\TCPData.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\bin\Debug\net8.0\TCPData.deps.json
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\bin\Debug\net8.0\TCPData.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\bin\Debug\net8.0\TCPData.pdb
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.AssemblyInfoInputs.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.AssemblyInfo.cs
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.csproj.CoreCompileInputs.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.sourcelink.json
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\refint\TCPData.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\TCPData.pdb
+C:\Users\gyalw\OneDrive\Desktop\LINQ\GIt\ThePretendCompany\TCPData\obj\Debug\net8.0\ref\TCPData.dll

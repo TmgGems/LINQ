@@ -16,7 +16,6 @@ namespace ThePretendCompany
                 Console.WriteLine($"Last Name : {employee.LastName}");
                 Console.WriteLine($"Annual Salary : {employee.AnnualSalary}");
                 Console.WriteLine($"Manager :{employee.IsManager}");
-
             }
         }
     }

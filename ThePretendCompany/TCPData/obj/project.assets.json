@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gyalw\\OneDrive\\Desktop\\LINQ\\ThePretendCompany\\TCPData\\TCPData.csproj",
+      "projectUniqueName": "C:\\Users\\gyalw\\OneDrive\\Desktop\\LINQ\\GIt\\ThePretendCompany\\TCPData\\TCPData.csproj",
       "projectName": "TCPData",
-      "projectPath": "C:\\Users\\gyalw\\OneDrive\\Desktop\\LINQ\\ThePretendCompany\\TCPData\\TCPData.csproj",
+      "projectPath": "C:\\Users\\gyalw\\OneDrive\\Desktop\\LINQ\\GIt\\ThePretendCompany\\TCPData\\TCPData.csproj",
       "packagesPath": "C:\\Users\\gyalw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gyalw\\OneDrive\\Desktop\\LINQ\\ThePretendCompany\\TCPData\\obj\\",
+      "outputPath": "C:\\Users\\gyalw\\OneDrive\\Desktop\\LINQ\\GIt\\ThePretendCompany\\TCPData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
