@@ -1,0 +1,11 @@
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\bin\Debug\net8.0\TCPExtensions.deps.json
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\bin\Debug\net8.0\TCPExtensions.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\bin\Debug\net8.0\TCPExtensions.pdb
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\TCPExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\TCPExtensions.AssemblyInfoInputs.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\TCPExtensions.AssemblyInfo.cs
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\TCPExtensions.csproj.CoreCompileInputs.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\TCPExtensions.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\refint\TCPExtensions.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\TCPExtensions.pdb
+C:\Users\gyalw\OneDrive\Desktop\LINQ\ThePretendCompany\TCPExtensions\obj\Debug\net8.0\ref\TCPExtensions.dll
