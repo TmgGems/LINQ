@@ -1,0 +1,14 @@
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.AssemblyInfoInputs.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.AssemblyInfo.cs
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.csproj.CoreCompileInputs.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\bin\Debug\net8.0\LINQ-2.exe
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\bin\Debug\net8.0\LINQ-2.deps.json
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\bin\Debug\net8.0\LINQ-2.runtimeconfig.json
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\bin\Debug\net8.0\LINQ-2.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\bin\Debug\net8.0\LINQ-2.pdb
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\refint\LINQ-2.dll
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.pdb
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ-2.genruntimeconfig.cache
+C:\Users\gyalw\OneDrive\Desktop\LINQ\Example\LINQ-2\LINQ-2\obj\Debug\net8.0\ref\LINQ-2.dll
